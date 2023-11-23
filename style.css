@@ -1,0 +1,23 @@
+body{
+    background-image:url()
+}
+
+#titulo{
+    color:rgb(20, 20, 109);
+    text-align: center;
+    font-size: 40px
+}
+
+.texto1 {
+    color:rgb(20, 20, 109);
+    background-color:aliceblue;
+text-align: center;
+font-size: 30px;
+}
+
+.texto2 {
+    color:rgb(20, 20, 109);
+    background-color:aliceblue;
+    text-align: center;
+font-size: 30px;    
+}
